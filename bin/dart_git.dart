@@ -3,6 +3,8 @@ void sum(int one, int two) {
   int sum =one + two;
   print('Sum is $sum');
 }
+
 void main() {
   sum(1, 2);
 }
+
